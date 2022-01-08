@@ -1,16 +1,30 @@
-### Hi there 👋
+<b>
+  <h1 align="center">
+    Hi there 👋 
+  </h1>
+</b>		
+<h3 align = center>
+	I am a 19 years old guy studying computer science.<br><br>
+	I love to learn and explore🔭 alot in my field
+<br>
+</h3>
 
-<!--
-**m7adeel/m7adeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align=center>
+	✨The languages and tools I know are✨<br>
+	<h3>
+	 - HTML<br>
+	 - CSS<br>
+	 - JavaScript<br>
+	 - BootStrap<br>
+	 - C++<br>
+	 - Python<br>
+	</h3>
+</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<h1 align=center>
+	And
+	</h1>
+	<h2>
+		I am Currently learning React JS🌱
+	</h2>
