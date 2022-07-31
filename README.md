@@ -4,7 +4,7 @@
   </h1>
 </b>		
 <h3 align = center>
-	I am a 19 years old guy studying computer science.<br><br>
-	I love to learn and explore🔭 alot in my field
+	I am doing my Bachelors in computer science.<br><br>
+	I am focusing on Data Science, Data Analytics and Machine Learning.
 <br>
 
