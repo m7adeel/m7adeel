@@ -7,7 +7,7 @@ Computer Science Student looking to take the first step into a new career.
 INTERESTS:
 <p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
 <p> 🖥 Software Development.</p>
-<p> 👨‍🏫 Data Analysis.</p>
+<p> 👨‍🏫 Devops.</p>
 <p> ⚙️ Machine Learning.</p>
 <p> 🧮 Data Science.</p>
  
