@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Muhammad Adeel
 
-Computer Science Student looking to take the first step into a new career.
+A Passionate and Curious Software Engineer
 
 ## 💫 Little Bit More About Me
 
