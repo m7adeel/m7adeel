@@ -8,8 +8,6 @@ INTERESTS:
 <p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
 <p> 🖥 Software Development.</p>
 <p> 👨‍🏫 Devops.</p>
-<p> ⚙️ Machine Learning.</p>
-<p> 🧮 Data Science.</p>
  
 
 ## 💻 Skills
