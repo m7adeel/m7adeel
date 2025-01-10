@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Muhammad Adeel
+# Hi there 👋, I am Muhammad Adeel
 
 A Passionate and Curious Software Engineer
 
