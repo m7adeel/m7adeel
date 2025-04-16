@@ -5,7 +5,6 @@ A Passionate and Curious Software Engineer
 ## 💫 Little Bit More About Me
 
 INTERESTS:
-<p> 🤩 Improving my coding skills to become a full stack app developer 🤩 </p>
 <p> 🖥 Software Development.</p>
 <p> 📱 Cross Platform App Development</p>
 <p> 👨‍🏫 Data Science</p>
